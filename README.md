@@ -1,3 +1,3 @@
 HockCPlusPlus
 =============
-How to monitor the PC Keyboard suing Win32 library in c++ ?
+How to monitor your PC Keyboard using Win32 library in c++ ?
